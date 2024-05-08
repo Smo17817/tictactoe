@@ -10,6 +10,12 @@
 .svn/
 migrate_working_dir/
 
+# Extra
+linux/*
+macos/*
+web/*
+windows/*
+
 # IntelliJ related
 *.iml
 *.ipr
